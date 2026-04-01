@@ -14,7 +14,7 @@ npm run dev
 ```bash
 git clone  https://github.com/bahag-patelr/movie-watchlist-client
 ```
-The app runs at `http://localhost:5173`. Requires the [backend API]([https://github.com/bahag-reedm/watchlist-backend]) running on `http://localhost:3000`.
+The app runs at `http://localhost:5173`. Requires the [backend API](https://github.com/bahag-reedm/watchlist-backend) running on `http://localhost:3000`.
 
 ## Features
 
