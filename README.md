@@ -31,3 +31,7 @@ React 19 · React Router 7 · Axios · Tailwind CSS 4 · Headless UI · Heroicon
 ## Documentation
 
 See [my-app/README.md](my-app/README.md) for detailed setup instructions, project structure, and route documentation.
+
+## Team Members
+Rishikesh Patel
+Max Reed
