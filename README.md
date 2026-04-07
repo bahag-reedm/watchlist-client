@@ -32,6 +32,7 @@ React 19 · React Router 7 · Axios · Tailwind CSS 4 · Headless UI · Heroicon
 
 See [my-app/README.md](my-app/README.md) for detailed setup instructions, project structure, and route documentation.
 
+## [Backend](https://github.com/bahag-reedm/watchlist-backend)
 ## Team Members
-Rishikesh Patel
+Rishikesh Patel    
 Max Reed
