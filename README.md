@@ -2,6 +2,12 @@
 
 A full-stack movie watchlist application where users can search movies via TMDB, manage a personal watchlist, and leave reviews with ratings. This repository contains the **React frontend**.
 
+## Run
+
+```
+docker run bahagreedm/watchlist-frontend
+```
+
 ## Quick Start
 
 ```bash
