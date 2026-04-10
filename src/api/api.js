@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://movies-api-max-630243095989.europe-west1.run.app/api",
+  baseURL: `${import.meta.env.VITE_API_URL}/api`,
 });
 
 api.interceptors.request.use((config) => {
